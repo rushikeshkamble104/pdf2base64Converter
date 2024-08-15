@@ -1,0 +1,2 @@
+java -cp target/pdf2base64-1.0-SNAPSHOT.jar  org.example.FileToBase64Converter "D:\rushikesh_kamble_resume.pdf"
+ java -cp target/pdf2base64-1.0-SNAPSHOT.jar org.example.Base64ToPdfConverter rushikesh_kamble_resume.pdf_base64.txt document.pdf
